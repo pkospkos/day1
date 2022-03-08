@@ -1,0 +1,13 @@
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.exe
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.deps.json
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.runtimeconfig.json
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.runtimeconfig.dev.json
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.dll
+C:\Users\Student\Code\JenkinsDay1\bin\Debug\netcoreapp3.1\JenkinsDay1.pdb
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.csprojAssemblyReference.cache
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.AssemblyInfoInputs.cache
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.AssemblyInfo.cs
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.dll
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.pdb
+C:\Users\Student\Code\JenkinsDay1\obj\Debug\netcoreapp3.1\JenkinsDay1.genruntimeconfig.cache
